@@ -121,8 +121,6 @@ To build a successful career as a **Data Analyst**, leveraging AI, analytics, ma
 
 - Project Management for Managers – NPTEL
 - Social Networks – NPTEL
-- Governance, Risk & Compliance (GRC)
-- Data Privacy
 - Generative AI
 
 ---
