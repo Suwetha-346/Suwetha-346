@@ -176,6 +176,6 @@ To build a successful career as a **Data Analyst**, leveraging AI, analytics, ma
 
 ---
 
-### 💭 Motto
+## 🎯 Goal
 
-> **"Transforming data into insights, building intelligent solutions, and promoting responsible AI through analytics and governance."** 🚀
+To build a successful career as a Data Analyst by applying data analytics, machine learning, and AI to solve real-world business problems while continuously learning and contributing to innovative, data-driven solutions.
